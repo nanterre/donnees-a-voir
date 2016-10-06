@@ -79,8 +79,16 @@ h1 {
   font-size:28px;
 }
 
+h1.participez {
+    margin-top: 70px;
+}
+
 h2 {
   color:#393939;
+}
+
+section > h2, section > h3 {
+  margin-top: 70px;
 }
 
 h3, h4, h5, h6 {
